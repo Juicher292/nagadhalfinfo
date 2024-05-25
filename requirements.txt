@@ -3,3 +3,4 @@ requests
 jsonify
 gunicorn
 app
+nagadinfo
